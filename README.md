@@ -77,6 +77,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/flagdados/flagdados/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Exemplos de dasbhoard criados por mim:</h2>
+Logistica:
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZTYwYjRjNTAtMGI3OC00NzY4LWI5YTEtMzk1YTczZTRjZTkyIiwidCI6ImExYzFhYzZkLWVlYmQtNDBlOC05MTU1LThhMmIxNjIwYTEyMyJ9"> <img height="200"  src="https://nextexperience.com.br/wp-content/uploads/2024/06/logistica-inversa-freepik-05.jpg" /> </a>
+Financeiro:
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZTU0NGViNTItYjNlMC00MjFiLWI3NmQtZTMyY2YzZWM0NzQxIiwidCI6ImExYzFhYzZkLWVlYmQtNDBlOC05MTU1LThhMmIxNjIwYTEyMyJ9"> <img height="200"  src="https://conube.com.br/blog/wp-content/uploads/2019/10/BPO-Financeiro_capa.jpg" /> </a>
 
 ###
