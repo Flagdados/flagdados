@@ -87,7 +87,7 @@
 <h3> Logísticaa:</h3>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYzU1YzE5YjAtMTE4ZC00NTljLWIyYjItN2Y4ODg1OTM5MGMxIiwidCI6ImExYzFhYzZkLWVlYmQtNDBlOC05MTU1LThhMmIxNjIwYTEyMyJ9> <img height="200"  src="https://cargox.com.br/wp-content/uploads/2021/06/gestao-de-riscos-na-logistica.jpg" /> </a>
 
-<a href=”https://searchlab.com.br/”>Um link para Search Lab</a>
+<a href=”https://searchlab.com.br/”>fim</a>
 
 
 ###
