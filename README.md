@@ -81,8 +81,7 @@
 <h2 align="left">Exemplos de dasbhoard criados por mim:</h2>
 
 <h3> Financeiro:</h3>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZTU0NGViNTItYjNlMC00MjFiLWI3NmQtZTMyY2YzZWM0NzQxIiwidCI6ImExYzFhYzZkLWVlYmQtNDBlOC05MTU1LThhMmIxNjIwYTEyMyJ9"> 
-<img height="200"  src="https://conube.com.br/blog/wp-content/uploads/2019/10/BPO-Financeiro_capa.jpg" /> </a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZTU0NGViNTItYjNlMC00MjFiLWI3NmQtZTMyY2YzZWM0NzQxIiwidCI6ImExYzFhYzZkLWVlYmQtNDBlOC05MTU1LThhMmIxNjIwYTEyMyJ9"> <img height="200"  src="https://conube.com.br/blog/wp-content/uploads/2019/10/BPO-Financeiro_capa.jpg" /> </a>
 
 <h3> Logística:</h3>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYzU1YzE5YjAtMTE4ZC00NTljLWIyYjItN2Y4ODg1OTM5MGMxIiwidCI6ImExYzFhYzZkLWVlYmQtNDBlOC05MTU1LThhMmIxNjIwYTEyMyJ9"> <img height="200"  src="https://cargox.com.br/wp-content/uploads/2021/06/gestao-de-riscos-na-logistica.jpg" /> </a>
