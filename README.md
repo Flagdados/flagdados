@@ -88,5 +88,6 @@
 <h4> Vendas:</h4>
 <a href="https://lookerstudio.google.com/reporting/f07b5a78-e6de-4b5d-aa32-a68563675670"> <img height="180"  src="https://img.freepik.com/vetores-gratis/taxas-de-receita-da-empresa-compra-de-presentes-crescimento-de-vendas-analise-de-lucros-da-empresa-gerente-de-loja-online-analisando-receitas-homem-calculando-despesas-de-capital-ilustracao-vetorial-de-metafora-de-conceito-isolado_335657-2769.jpg" /> </a>
 
-
+</br>
+<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/flagdados/count.svg" /></p>
 ###
