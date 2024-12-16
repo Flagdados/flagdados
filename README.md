@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🏤 Atualmente trabalho como Analista  em uma grande Empresa de Multinacional do ramo da Logistica;<br>📊 Sou especialista nas ferramentas Power BI, Power Query e Microsoft Excel;<br>👨‍💻 Tenho conhecimentos sobre linguagens SQL e Python para análise de dados;<br>💬 Pergunte-me sobre qualquer coisa;<br>🌐 Acesse meu portfólio de business intelligence</p>
+<p align="left">🏤 Atualmente trabalho como Analista  em uma grande Empresa de Multinacional do ramo da Logistica;<br>📊 Sou especialista nas ferramentas Power BI, Power Query e Microsoft Excel;<br>👨‍💻 Tenho conhecimentos sobre linguagens SQL e Python para análise de dados;<br>💬 Pergunte-me sobre qualquer coisa;<br>🌐 Acesse <a href="https://flagdados.github.io/Data/">meu portfólio de business intelligence</a></p> 
 
 ###
 
@@ -77,16 +77,6 @@
 
 ###
 
-
-<h3 align="left">Exemplos de dasbhoard em PowerBI:</h3>
-<h4> Financeiro:</h4>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZTU0NGViNTItYjNlMC00MjFiLWI3NmQtZTMyY2YzZWM0NzQxIiwidCI6ImExYzFhYzZkLWVlYmQtNDBlOC05MTU1LThhMmIxNjIwYTEyMyJ9"> <img height="100"  src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-crescimento-das-vendas_114360-25540.jpg" /> </a>
-<h4> Logística:</h4>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYzU1YzE5YjAtMTE4ZC00NTljLWIyYjItN2Y4ODg1OTM5MGMxIiwidCI6ImExYzFhYzZkLWVlYmQtNDBlOC05MTU1LThhMmIxNjIwYTEyMyJ9"> <img height="180"  src="https://cargox.com.br/wp-content/uploads/2021/06/gestao-de-riscos-na-logistica.jpg" /> </a>
-
-<h3 align="left">Exemplos de dasbhoard em Google Studio:</h3>
-<h4> Vendas:</h4>
-<a href="https://lookerstudio.google.com/reporting/f07b5a78-e6de-4b5d-aa32-a68563675670"> <img height="180"  src="https://img.freepik.com/vetores-gratis/taxas-de-receita-da-empresa-compra-de-presentes-crescimento-de-vendas-analise-de-lucros-da-empresa-gerente-de-loja-online-analisando-receitas-homem-calculando-despesas-de-capital-ilustracao-vetorial-de-metafora-de-conceito-isolado_335657-2769.jpg" /> </a>
 
 </br>
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/flagdados/count.svg" /></p>
