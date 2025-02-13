@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🏤 Atualmente trabalho como Analista  em uma grande Empresa de Multinacional do ramo da Logistica;<br>📊 Sou especialista nas ferramentas Power BI, Power Query e Microsoft Excel;<br>👨‍💻 Tenho conhecimentos sobre linguagens SQL e Python para análise de dados;<br>💬 Pergunte-me sobre qualquer coisa;<br>🌐 Acesse <a href="https://flagdados.github.io/Data/">meu portfólio de business intelligence</a></p> 
+<p align="left">🏤 ;<br>📊 Sou especialista nas ferramentas Power BI, Power Query e Microsoft Excel;<br>👨‍💻 Tenho conhecimentos sobre linguagens SQL e Python para análise de dados;<br>💬 Pergunte-me sobre qualquer coisa;<br>🌐 Acesse <a href="https://flagdados.github.io/Data/">meu portfólio de business intelligence</a></p> 
 
 ###
 
